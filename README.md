@@ -8,6 +8,10 @@ part of the app you will get a single view/screen called Home View. You can use 
 as a starting point for your development. After creating your app using this 
 template, you can add additional screens as per your needs.
 
+<div align=center>
+    <img  height=300 src="http://content.screencast.com/users/Kashyapa/folders/TACO-CLI-ScreenShots/media/d68dbc1c-b55b-419b-b54f-bd4e71649cc5/TACOKendoUIBlank.png" />
+</div>
+
 You can know more about Kendo UI Mobile Controls here: http://www.telerik.com/kendo-ui/open-source-core
 
 <h1>Usage Instruction:</h1>
