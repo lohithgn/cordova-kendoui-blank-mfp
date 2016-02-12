@@ -30,11 +30,11 @@ Next, create a MFP Cordova application by running the following command
 
 <blockquote>mfp cordova create &lt;AppName&gt; -p android,ios -t &lt;Local Path to Cordova Kendo UI Blank MFP Template&gt;</blockquote>
 
-Note: Local path to Cordova Kendo UI Blank MFP template is the folder where you have cloned this repo.
+<strong>Note:</strong> Local path to Cordova Kendo UI Blank MFP template is the folder where you have cloned this repo.
 
 <h2>Step 3: Run NPM Commands</h2>
 
-After step 2, open a command prompt (or terminal) and perform the following commands by navigating to the &lt;AppName&gt; folder in command prompt (or terminal)  - <blockquote>cd &lt;AppName&gt;</blockquote>
+After step 2, open a command prompt (or terminal) and perform the following commands by navigating to the &lt;AppName&gt; folder in command prompt (or terminal)  - <em>cd &lt;AppName&gt;</em>
 
 <blockquote>
 npm install
