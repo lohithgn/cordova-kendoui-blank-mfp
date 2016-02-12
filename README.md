@@ -1,11 +1,11 @@
 <h1>About MobileFirst Cordova Kendo UI Blank Template </h1>
 
 This is a template for developing Cordova based Hybrid Mobile Application for IBM MobileFirst platform.
-This template provides Kendo UI Mobile control set as the UI layer for your cordova application. 
+This template provides Kendo UI Mobile control set as the UI layer for your cordova application.
 
 When you use this template it creates a blank cordova application and includes Kendo UI framework in your application. As
-part of the app you will get a single view/screen called Home View. You can use this 
-as a starting point for your development. After creating your app using this 
+part of the app you will get a single view/screen called Home View. You can use this
+as a starting point for your development. After creating your app using this
 template, you can add additional screens as per your needs.
 
 <div align=center>
@@ -40,7 +40,9 @@ After step 2, open a command prompt (or terminal) and perform the following comm
 npm install
 <br>
 gulp
-</blockquote> 
+</blockquote>
+<strong>Note: </strong> If you receive <em>no command 'gulp' found</em>, Run the below command to install gulp and try after installation.
+<blockquote>npm install -g gulp</blockquote>
 
 <h2>Step 4: Run the App</h2>
 
